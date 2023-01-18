@@ -3,11 +3,15 @@
   "resourceVersion": "1.6",
   "name": "SpaceRocksGame",
   "resources": [
-    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":1,},
-    {"id":{"name":"spr_rock_big","path":"sprites/spr_rock_big/spr_rock_big.yy",},"order":2,},
+    {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},"order":3,},
+    {"id":{"name":"SPR_asteroid_small","path":"sprites/SPR_asteroid_small/SPR_asteroid_small.yy",},"order":5,},
+    {"id":{"name":"SPR_ship","path":"sprites/SPR_ship/SPR_ship.yy",},"order":4,},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":0,},
-    {"id":{"name":"spr_rock_small","path":"sprites/spr_rock_small/spr_rock_small.yy",},"order":3,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"SPR_asteroid_medium","path":"sprites/SPR_asteroid_medium/SPR_asteroid_medium.yy",},"order":6,},
+    {"id":{"name":"OBJ_ship","path":"objects/OBJ_ship/OBJ_ship.yy",},"order":0,},
+    {"id":{"name":"SPR_asteroid_large","path":"sprites/SPR_asteroid_large/SPR_asteroid_large.yy",},"order":7,},
+    {"id":{"name":"OBJ_asteroid","path":"objects/OBJ_asteroid/OBJ_asteroid.yy",},"order":1,},
+    {"id":{"name":"RM_Game","path":"rooms/RM_Game/RM_Game.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -23,7 +27,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"RM_Game","path":"rooms/RM_Game/RM_Game.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy","order":10,},
