@@ -26,6 +26,7 @@
   "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"OBJ_asteroid","path":"objects/OBJ_asteroid/OBJ_asteroid.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
