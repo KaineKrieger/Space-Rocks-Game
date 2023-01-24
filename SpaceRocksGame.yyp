@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "SpaceRocksGame",
   "resources": [
+    {"id":{"name":"Obj_game","path":"objects/Obj_game/Obj_game.yy",},"order":5,},
     {"id":{"name":"OBJ_Bullet","path":"objects/OBJ_Bullet/OBJ_Bullet.yy",},"order":3,},
     {"id":{"name":"SPR_asteroid_small","path":"sprites/SPR_asteroid_small/SPR_asteroid_small.yy",},"order":5,},
     {"id":{"name":"SPR_ship","path":"sprites/SPR_ship/SPR_ship.yy",},"order":4,},
