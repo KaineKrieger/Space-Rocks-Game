@@ -1,3 +1,4 @@
-score = 0;
+score = 990;
 
-lives = 3;
+lives = 1;
+
