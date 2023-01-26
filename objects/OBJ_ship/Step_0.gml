@@ -16,6 +16,7 @@ if(keyboard_check(vk_up)){
 if(keyboard_check_pressed(vk_space)){
 	var inst = instance_create_layer(x,y, "instances", OBJ_Bullet);
 	inst.direction = image_angle;
+	audio_play_sound(ship_gun, 4, false)
 }
 
 
