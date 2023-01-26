@@ -18,13 +18,6 @@
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_731589D3_1","properties":[],"isDnd":false,"objectId":{"name":"OBJ_ship","path":"objects/OBJ_ship/OBJ_ship.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":416.0,"y":320.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_41E57912_1","properties":[],"isDnd":false,"objectId":{"name":"OBJ_asteroid","path":"objects/OBJ_asteroid/OBJ_asteroid.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":864.0,"y":608.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4786C062_1","properties":[],"isDnd":false,"objectId":{"name":"OBJ_asteroid","path":"objects/OBJ_asteroid/OBJ_asteroid.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":928.0,"y":448.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4D9F0C4A_1","properties":[],"isDnd":false,"objectId":{"name":"OBJ_asteroid","path":"objects/OBJ_asteroid/OBJ_asteroid.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":512.0,"y":544.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_53ADB3D3_1","properties":[],"isDnd":false,"objectId":{"name":"OBJ_asteroid","path":"objects/OBJ_asteroid/OBJ_asteroid.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":800.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_790C1136_1","properties":[],"isDnd":false,"objectId":{"name":"OBJ_asteroid","path":"objects/OBJ_asteroid/OBJ_asteroid.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":608.0,"y":832.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_438FFDFC_1","properties":[],"isDnd":false,"objectId":{"name":"OBJ_asteroid","path":"objects/OBJ_asteroid/OBJ_asteroid.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":96.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_33767FC8_1","properties":[],"isDnd":false,"objectId":{"name":"OBJ_asteroid","path":"objects/OBJ_asteroid/OBJ_asteroid.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":480.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","spriteId":null,"colour":4278190080,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
   ],
@@ -33,13 +26,6 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_731589D3_1","path":"rooms/RM_Game/RM_Game.yy",},
-    {"name":"inst_41E57912_1","path":"rooms/RM_Game/RM_Game.yy",},
-    {"name":"inst_4786C062_1","path":"rooms/RM_Game/RM_Game.yy",},
-    {"name":"inst_4D9F0C4A_1","path":"rooms/RM_Game/RM_Game.yy",},
-    {"name":"inst_53ADB3D3_1","path":"rooms/RM_Game/RM_Game.yy",},
-    {"name":"inst_790C1136_1","path":"rooms/RM_Game/RM_Game.yy",},
-    {"name":"inst_438FFDFC_1","path":"rooms/RM_Game/RM_Game.yy",},
-    {"name":"inst_33767FC8_1","path":"rooms/RM_Game/RM_Game.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
